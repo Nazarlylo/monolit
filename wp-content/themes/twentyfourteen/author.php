@@ -17,7 +17,7 @@ get_header(); ?>
 			<?php if ( have_posts() ) : ?>
 
 			<header class="archive-header">
-				<h1 class="archive-title">
+				<h1 class="archive-title222">
 					<?php
 						/*
 						 * Queue the first post, that way we know what author
